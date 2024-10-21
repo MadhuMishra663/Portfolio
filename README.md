@@ -1,6 +1,6 @@
 👋 Hello, I'm Madhu Mishra!
 
-🚀 Aspiring Backend Developer | Innovator | Constant Learner
+🚀 Aspiring Full Stack Developer | Innovator | Constant Learner
 
 Welcome to my Portfolio! I'm passionate about crafting solutions that make a positive impact. My journey involves diving deep into coding challenges, collaborating on exciting projects, and continuously expanding my skill set.
 
